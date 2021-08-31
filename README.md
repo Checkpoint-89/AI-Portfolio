@@ -1,6 +1,7 @@
 # Hands-on training in Artificial Intelligence
 
-To take part in the AI adventure, I had to get up to date, to get my hands dirty again.  
+Already passionate about Artificial Intelligence at University when I studied Signal & Image processing and Pattern Recognition, I want to code and deploy algorithms again. As a taste for entrepreneurship brought me into business for a while, I strengthened my technical expertise and practice over the last year (2020-21) and am now eager to discuss opportunities to develop new technologies and products!
+
 This repository presents some of the hands-on work of my 12 months training.  
 
 ## bad buzz detection  
