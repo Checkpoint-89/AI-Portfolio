@@ -15,5 +15,3 @@ P10_02_luis_train_deploy.ipynb: notebook - training and deployment of the langua
 P10_03_performance_monitoring.pdf: monitoring rules
 
 P10_04_src: source code, check the README file for further details
-
-Github of the project: https://github.com/Checkpoint89/P10-deploy
