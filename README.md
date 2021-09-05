@@ -25,13 +25,13 @@ A model for the scoring of candidates to a bank credit. An application of standa
 ## data exploration  
 > Keywords: matplotlib, seaborn, plotly, Exploratory Data Analysis, Statistics, PCA, UI  
 
-Provide, as a web interface, an exploratory tool to easely explore the OpenFoodFacts dataset. Requirements: using Ipywidget and Voila.
+Provides, as a web interface, an exploratory tool to easely explore the OpenFoodFacts dataset. Requirements: using Ipywidget and Voila.
 
 
 ## image semantic segmentation
-> Keywords: Tensorflow, Encoder-Decoder, Transfer learning, Fine tuning, VGG16, Unet, ResNet, PspNet
+> Keywords: Tensorflow, Data Augmentation, Encoder-Decoder, Transfer learning, Fine tuning, VGG16, Unet, ResNet, PspNet
 
-Explore various semantic segmentation algorithms on the CityScapes dataset. The selected model is integrated with Azure ML and a light web app is developped in flask for demonstration purposes.
+Explores various semantic segmentation algorithms on the CityScapes dataset. The selected model is integrated with Azure ML and a light web app is developped in flask for demonstration purposes.
 
 
 ## market segmentation
@@ -47,11 +47,11 @@ MVP of a recommendation model called by a mobile application. It provides a rank
 ## topic modelling
 > Keywords: scikit-learn, nltk, Latent Dirichlet Allocation, Multi-Dimensional-Scaling, pyLDAVis
 
-Evaluate the feasibility to assess insatisfaction topics within Yelp reviews:  
+Evaluates the feasibility to assess insatisfaction topics within Yelp reviews:  
 - What are the main insatisfaction topics ?  
 - In one particular review: what is the client complaining about ?  
 
-Provide a graphical answer to the above questions.
+Provides a graphical answer to the above questions.
 
 
 
