@@ -1,8 +1,8 @@
 # Hands-on training in Artificial Intelligence
 
-Already passionate about Artificial Intelligence at University when I studied Signal & Image processing and Pattern Recognition, I want to code and deploy algorithms again. As a taste for entrepreneurship brought me into business for a while, I strengthened my technical expertise and practice over the last year (2020-21) and am now eager to discuss opportunities to develop new technologies and products!
+Passionate about Artificial Intelligence at University where I studied Signal & Image processing and Pattern Recognition, I like to code and deploy algorithms. As a taste for entrepreneurship brought me into business for a while, I strengthened my technical expertise and practice over the last year (2020-21).
 
-This repository presents some of the hands-on work of my 12 months training.  
+This repository presents some of the hands-on work of this 12 months training.  
 
 ## bad buzz detection  
 > Keywords: nltk, gensim, Tensorflow, Azure ML, NLP, vectorization, embeddings, CNN, LSTM 
