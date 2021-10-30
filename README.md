@@ -1,6 +1,6 @@
 # Hands-on training in Artificial Intelligence
 
-Passionate about Artificial Intelligence at University where I studied Signal & Image processing and Pattern Recognition, I like to code and deploy algorithms. As a taste for entrepreneurship brought me into business for a while, I strengthened my technical expertise and practice over the last year (2020-21).
+As a problem solver, Iam always eager to tackle hands-on challenges. I studied Artificial Intelligence at university and first developed algorithms within Thales. Now as a taste for entrepreneurship brought me into business for a while, I strengthened my technical expertise and practice over the last year (2020-21) with the aim to get back enginerring.
 
 This repository presents some of the hands-on work of this 12 months training.  
 
